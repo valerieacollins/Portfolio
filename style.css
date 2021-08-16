@@ -1,0 +1,45 @@
+  body {
+    background-color: WhiteSmoke;
+    font-family: Apple Chancery, cursive;
+}
+h1,h3, footer {
+  background-color: LightSteelBlue
+}
+header h1,h3 {
+  color: black;
+  margin:0;
+  font-size: 50px;
+  text-align: center;  
+}
+h3 {
+ text-align:center;
+  margin: 16
+    padding: 20px;
+  font-size: 25px;
+  
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+main {
+  text-align: center;
+  margin: 25px;
+  
+}
+ul,ol{
+  text-align: center;
+  list-style-position: inside;
+}
+footer {
+  text-align:center;
+  text-size:35px;
+}
+a {
+  text-decoration: none;
+  color:Navy;
+  font-family: Apple Chancery, cursive;
+    
+}
