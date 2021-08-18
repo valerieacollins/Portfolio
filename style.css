@@ -1,6 +1,6 @@
   body {
     background-color: WhiteSmoke;
-    font-family: Apple Chancery, cursive;
+    font-family: Apple Chancery, Helvetica;
 }
 h1,h3, footer {
   background-color: LightSteelBlue
@@ -12,7 +12,7 @@ header h1,h2,h3 {
   text-align: center;  
 }
 h2 {
- text-align:center;
+ text-align:left;
   margin: 16
     padding: 20px;
   font-size: 25px;
@@ -25,7 +25,7 @@ h2 {
   width: 50%;
 }
 main {
-  text-align: center;
+  text-align: left;
   margin: 25px;
   
 }
