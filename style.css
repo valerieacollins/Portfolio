@@ -1,6 +1,6 @@
   body {
     background-color: WhiteSmoke;
-    font-family: Apple Chancery, Sans Serif;
+    font-family: Apple Chancery, Sans Serif; /* I like apple chancery */
 }
 h1,h3, footer {
   background-color: LightSteelBlue
@@ -31,7 +31,7 @@ main {
 }
 ul,ol{
   text-align: center;
-  list-style-position: inside;
+  list-style-position: inside; /* i wanted the list to be centered */
 }
 footer {
   text-align:center;
