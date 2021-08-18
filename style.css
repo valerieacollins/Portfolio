@@ -1,6 +1,6 @@
   body {
     background-color: WhiteSmoke;
-    font-family: Apple Chancery, Helvetica;
+    font-family: Apple Chancery, Sans Serif;
 }
 h1,h3, footer {
   background-color: LightSteelBlue
@@ -40,6 +40,6 @@ footer {
 a {
   text-decoration: none;
   color:Navy;
-  font-family: Apple Chancery, Helvetica;
+  font-family: Apple Chancery, Sans Serif;
     
 }
