@@ -5,13 +5,13 @@
 h1,h3, footer {
   background-color: LightSteelBlue
 }
-header h1,h2 {
+header h1,h2,h3 {
   color: black;
   margin:0;
   font-size: 50px;
   text-align: center;  
 }
-h3 {
+h2 {
  text-align:center;
   margin: 16
     padding: 20px;
