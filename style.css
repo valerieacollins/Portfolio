@@ -13,7 +13,7 @@ header h1,h2,h3 {
 }
 h2 {
  text-align: center;
-  margin: 16
+  margin: 16;
     padding: 20px;
   font-size: 25px;
   
@@ -35,10 +35,10 @@ ul,ol{
 }
 footer {
   text-align:center;
-  text-size:35px;
+  font-size:35px;
 }
-a.highlight:hover {
-  color:light purple;
+a:hover {
+  color:lightpurple;
 }
 a {
   text-decoration: none;
